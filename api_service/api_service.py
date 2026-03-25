@@ -1,6 +1,4 @@
-f
-lask 
+ flask 
 psycopg2-binary 
 gunicorn 
-f
-lask-cors
+flask-cors
